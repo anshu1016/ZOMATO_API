@@ -1,0 +1,80 @@
+[
+  {
+    "name": "Sunset Bistro",
+    "cuisine": "American",
+    "address": "10 West Ave",
+    "city": "Los Angeles",
+    "rating": 4.5,
+    "menu": [
+      {
+        "_id": "60f1e244f4d1a323487dc21f",
+        "name": "Grilled Cheese Sandwich",
+        "price": 7.00
+      },
+      {
+        "_id": "60f1e244f4d1a323487dc220",
+        "name": "Tomato Soup",
+        "price": 5.00
+      }
+    ],
+    "reviews": [
+      {
+        "username": "alice89",
+        "comment": "Loved the ambience!",
+        "rating": 4
+      },
+      {
+        "username": "bob_smith",
+        "comment": "The grilled cheese is a must-try.",
+        "rating": 5
+      }
+    ]
+  },
+  {
+    "name": "Ocean's Plate",
+    "cuisine": "Seafood",
+    "address": "45 Beach St",
+    "city": "Miami",
+    "rating": 4.2,
+    "menu": [
+      {
+        "_id": "60f1e246f4d1a323487dc221",
+        "name": "Grilled Salmon",
+        "price": 15.00
+      }
+    ],
+    "reviews": [
+      {
+        "username": "charlie_d",
+        "comment": "The salmon was perfectly cooked!",
+        "rating": 4
+      }
+    ]
+  },
+  {
+    "name": "Green Delights",
+    "cuisine": "Vegan",
+    "address": "32 Greenery Ln",
+    "city": "Portland",
+    "rating": 4.8,
+    "menu": [
+      {
+        "_id": "60f1e248f4d1a323487dc222",
+        "name": "Vegan Burger",
+        "price": 10.00
+      },
+      {
+        "_id": "60f1e248f4d1a323487dc223",
+        "name": "Green Smoothie",
+        "price": 6.50
+      }
+    ],
+    "reviews": [
+      {
+        "username": "veganlove",
+        "comment": "A vegan paradise!",
+        "rating": 5
+      }
+    ]
+  }
+]

@@ -1,0 +1,122 @@
+[
+  {
+    "name": "Aria",
+    "cuisine": "Italian",
+    "address": "123 Pasta St.",
+    "city": "Rome",
+    "rating": 4.7,
+    "menu": [
+      { "name": "Spaghetti Carbonara", "price": 12.50 },
+      { "name": "Bruschetta", "price": 6.50 },
+      { "name": "Tiramisu", "price": 7.50 }
+    ]
+  },
+  {
+    "name": "Bistro Royale",
+    "cuisine": "French",
+    "address": "45 Eiffel Tower Rd.",
+    "city": "Paris",
+    "rating": 4.5,
+    "menu": [
+      { "name": "Croissant", "price": 4.50 },
+      { "name": "Bouillabaisse", "price": 25.00 },
+      { "name": "Crème Brûlée", "price": 8.00 }
+    ]
+  },
+  {
+    "name": "Taco Haven",
+    "cuisine": "Mexican",
+    "address": "789 Taco Blvd.",
+    "city": "Mexico City",
+    "rating": 4.3,
+    "menu": [
+      { "name": "Tacos Al Pastor", "price": 9.00 },
+      { "name": "Churros", "price": 5.00 },
+      { "name": "Guacamole", "price": 6.00 }
+    ]
+  },
+  {
+    "name": "Sakura Delights",
+    "cuisine": "Japanese",
+    "address": "22 Tokyo Lane",
+    "city": "Tokyo",
+    "rating": 4.9,
+    "menu": [
+      { "name": "Sushi Platter", "price": 20.00 },
+      { "name": "Ramen", "price": 12.00 },
+      { "name": "Tempura", "price": 10.00 }
+    ]
+  },
+  {
+    "name": "Bombay Bliss",
+    "cuisine": "Indian",
+    "address": "15 Curry Ave",
+    "city": "Mumbai",
+    "rating": 4.8,
+    "menu": [
+      { "name": "Butter Chicken", "price": 15.00 },
+      { "name": "Samosa", "price": 5.00 },
+      { "name": "Masala Chai", "price": 3.00 }
+    ]
+  },
+  {
+    "name": "Beijing Bites",
+    "cuisine": "Chinese",
+    "address": "88 Dragon Rd.",
+    "city": "Beijing",
+    "rating": 4.6,
+    "menu": [
+      { "name": "Dim Sum", "price": 14.00 },
+      { "name": "Peking Duck", "price": 24.00 },
+      { "name": "Hot Pot", "price": 18.00 }
+    ]
+  },
+  {
+    "name": "Aussie Eats",
+    "cuisine": "Australian",
+    "address": "50 Sydney Harbour",
+    "city": "Sydney",
+    "rating": 4.2,
+    "menu": [
+      { "name": "Kangaroo Steak", "price": 22.00 },
+      { "name": "Lamington", "price": 4.00 },
+      { "name": "Flat White Coffee", "price": 3.50 }
+    ]
+  },
+  {
+    "name": "Nile Delicacies",
+    "cuisine": "Egyptian",
+    "address": "77 Pyramid Pl.",
+    "city": "Cairo",
+    "rating": 4.4,
+    "menu": [
+      { "name": "Koshari", "price": 10.00 },
+      { "name": "Falafel", "price": 6.00 },
+      { "name": "Baklava", "price": 5.50 }
+    ]
+  },
+  {
+    "name": "Polar Plates",
+    "cuisine": "Antarctican",
+    "address": "1 Iceberg Isle",
+    "city": "Antarctica Station",
+    "rating": 3.9,
+    "menu": [
+      { "name": "Ice Cream", "price": 1.00 },
+      { "name": "Fish Stew", "price": 15.00 },
+      { "name": "Seaweed Salad", "price": 8.00 }
+    ]
+  },
+  {
+    "name": "Desert Delights",
+    "cuisine": "Middle Eastern",
+    "address": "40 Oasis St.",
+    "city": "Dubai",
+    "rating": 4.7,
+    "menu": [
+      { "name": "Shawarma", "price": 9.00 },
+      { "name": "Hummus", "price": 5.50 },
+      { "name": "Mint Tea", "price": 4.00 }
+    ]
+  }
+]
